@@ -2,7 +2,7 @@
 
 int calendar()
 {
-	printf("bye");
+	printf("1");
 	printf("function calendar\n");
 	return 0;
 }
